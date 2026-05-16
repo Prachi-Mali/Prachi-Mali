@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="coding girl" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" alt="coding girl" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ## 🧑‍💻 About Me
 
@@ -107,11 +107,12 @@ Phase 4 🎯 — UPCOMING
 
 <div align="center">
 
-![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prachi-Mali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/Prachi-Mali">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prachi-Mali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prachi-Mali&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Prachi-Mali&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi-Mali&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Prachi-Mali&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
